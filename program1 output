@@ -1,0 +1,72 @@
+Enter the number of days in the week: 7
+
+Enter details for Day 1:
+Enter the day name: Sunday
+Enter the date: 1
+Enter the activity for the day: YOGA
+
+Enter details for Day 2:
+Enter the day name: Monday
+Enter the date: 2
+Enter the activity for the day: CODING
+
+Enter details for Day 3:
+Enter the day name: Tuesday
+Enter the date: 3
+Enter the activity for the day: OUTING
+
+Enter details for Day 4:
+Enter the day name: Wednesday
+Enter the date: 4
+Enter the activity for the day: TRUCKING
+
+Enter details for Day 5:
+Enter the day name: Thrusday
+Enter the date: 5
+Enter the activity for the day: COOKING
+
+Enter details for Day 6:
+Enter the day name: Friday
+Enter the date: 6
+Enter the activity for the day: DANCE
+
+Enter details for Day 7:
+Enter the day name: Saturday
+Enter the date: 7
+Enter the activity for the day: SLEEPING
+
+Week's Activity Details:
+Day 1:
+Day Name: Sunday
+Date: 1
+Activity: YOGA
+
+Day 2:
+Day Name: Monday
+Date: 2
+Activity: CODING
+
+Day 3:
+Day Name: Tuesday
+Date: 3
+Activity: OUTING
+
+Day 4:
+Day Name: Wednesday
+Date: 4
+Activity: TRUCKING
+
+Day 5:
+Day Name: Thrusday
+Date: 5
+Activity: COOKING
+
+Day 6:
+Day Name: Friday
+Date: 6
+Activity: DANCE
+
+Day 7:
+Day Name: Saturday
+Date: 7
+Activity: SLEEPING
