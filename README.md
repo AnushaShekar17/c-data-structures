@@ -1,4 +1,4 @@
-## C-data-structures
+## C-Data-Structures
 
 This repository has the basic operations on data structures using C Programming Language.These programs are also part of our college[MITM].
 
