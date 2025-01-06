@@ -1,0 +1,29 @@
+**************************OUTPUT 1*******************************
+
+Enter the main string:Designed by vtucode
+
+Enter the pat string:vtucode
+
+Enter the replace string:Braham
+
+The string before pattern match is:
+ Designed by vtucode
+ 
+The string after pattern match and replace is: 
+ Designed by Braham
+ 
+ 
+ 
+ 
+**************************OUTPUT 2*******************************
+ 
+Enter the main string:Designed by Developer
+
+Enter the pat string:vtucode
+
+Enter the replace string:Braham
+
+The string before pattern match is:
+ Designed by Developer
+ 
+Pattern string is not found
