@@ -1,6 +1,4 @@
-
 #include<stdio.h>
-
 char str[50], pat[20], rep[20], res[50];
 int c = 0, m = 0, i = 0, j = 0, k, flag = 0;
 void stringmatch()
